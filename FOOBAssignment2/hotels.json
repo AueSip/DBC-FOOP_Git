@@ -1,0 +1,44 @@
+{
+    "hotels": [
+      {
+        "name": "The Merchant Hotel",
+        "location": "north"
+      },
+      {
+        "name": "Ballygally Castle",
+        "location": "north"
+      },
+      {
+        "name": "Slieve Donard Resort and Spa",
+        "location": "north"
+      },
+      {
+        "name": "The Fitzwilliam Hotel",
+        "location": "north"
+      },
+      {
+        "name": "Lough Erne Resort",
+        "location": "north"
+      },
+      {
+        "name": "The Shelbourne",
+        "location": "south"
+      },
+      {
+        "name": "Ashford Castle",
+        "location": "south"
+      },
+      {
+        "name": "The Westbury",
+        "location": "south"
+      },
+      {
+        "name": "Dromoland Castle Hotel",
+        "location": "south"
+      },
+      {
+        "name": "The Europe Hotel & Resort",
+        "location": "south"
+      }
+    ]
+  }
