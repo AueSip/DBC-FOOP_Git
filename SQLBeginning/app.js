@@ -30,7 +30,7 @@ const db = mysql.createConnection({
 
     password: 'root',
 
-    database: 'paul'
+    database: 'portfoliosite'
 
 });
 
